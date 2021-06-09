@@ -15,16 +15,11 @@
 139,Word Break,40.1%,Medium,3.568929344215992, https://leetcode.com/problems/word-break
 238,Product of Array Except Self,60.1%,Medium,3.514882900018146, https://leetcode.com/problems/product-of-array-except-self
 212,Word Search II,34.9%,Hard,3.4837901561793956, https://leetcode.com/problems/word-search-ii
-12,Integer to Roman,55.1%,Medium,3.4609849174972926, https://leetcode.com/problems/integer-to-roman
-239,Sliding Window Maximum,43.0%,Hard,3.433795326058728, https://leetcode.com/problems/sliding-window-maximum
 269,Alien Dictionary,33.3%,Hard,3.377668409524585, https://leetcode.com/problems/alien-dictionary
 460,LFU Cache,34.2%,Hard,3.3776519095965654, https://leetcode.com/problems/lfu-cache
-15,3Sum,26.8%,Medium,3.3710842155526985, https://leetcode.com/problems/3sum
-33,Search in Rotated Sorted Array,34.5%,Medium,3.3666485807729396, https://leetcode.com/problems/search-in-rotated-sorted-array
 675,Cut Off Trees for Golf Event,34.6%,Hard,3.36225540086527, https://leetcode.com/problems/cut-off-trees-for-golf-event
 588,Design In-Memory File System,45.9%,Hard,3.360532016478895, https://leetcode.com/problems/design-in-memory-file-system
 909,Snakes and Ladders,38.4%,Medium,3.343741372618161, https://leetcode.com/problems/snakes-and-ladders
-165,Compare Version Numbers,27.4%,Medium,3.2759201587167275, https://leetcode.com/problems/compare-version-numbers
 56,Merge Intervals,39.3%,Medium,3.274551916823998, https://leetcode.com/problems/merge-intervals
 380,Insert Delete GetRandom O(1),47.5%,Medium,3.264575909538694, https://leetcode.com/problems/insert-delete-getrandom-o1
 53,Maximum Subarray,46.5%,Easy,3.2518398869431175, https://leetcode.com/problems/maximum-subarray
