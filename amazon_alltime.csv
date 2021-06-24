@@ -14,7 +14,7 @@
 348,Design Tic-Tac-Toe,54.3%,Medium,3.644912199818459, https://leetcode.com/problems/design-tic-tac-toe
 139,Word Break,40.1%,Medium,3.568929344215992, https://leetcode.com/problems/word-break
 238,Product of Array Except Self,60.1%,Medium,3.514882900018146, https://leetcode.com/problems/product-of-array-except-self
-212,Word Search II,34.9%,Hard,3.4837901561793956, https://leetcode.com/problems/word-search-ii
+212,Word Search II,34.9%,Hard,3.7901561793956, https://leetcode.com/problems/word-search-ii
 269,Alien Dictionary,33.3%,Hard,3.377668409524585, https://leetcode.com/problems/alien-dictionary
 460,LFU Cache,34.2%,Hard,3.3776519095965654, https://leetcode.com/problems/lfu-cache
 675,Cut Off Trees for Golf Event,34.6%,Hard,3.36225540086527, https://leetcode.com/problems/cut-off-trees-for-golf-event
@@ -480,7 +480,6 @@
 860,Lemonade Change,51.6%,Easy,0.34144324934323333, https://leetcode.com/problems/lemonade-change
 581,Shortest Unsorted Continuous Subarray,31.1%,Easy,0.34097135874647316, https://leetcode.com/problems/shortest-unsorted-continuous-subarray
 334,Increasing Triplet Subsequence,40.0%,Medium,0.33981980987317617, https://leetcode.com/problems/increasing-triplet-subsequence
-390,Elimination Game,44.5%,Medium,0.33790695709687324, https://leetcode.com/problems/elimination-game
 579,Find Cumulative Salary of an Employee,37.0%,Hard,0.3371880562652357, https://leetcode.com/problems/find-cumulative-salary-of-an-employee
 262,Trips and Users,32.7%,Hard,0.3362391635517509, https://leetcode.com/problems/trips-and-users
 1405,Longest Happy String,49.0%,Medium,0.3360157198362929, https://leetcode.com/problems/longest-happy-string
